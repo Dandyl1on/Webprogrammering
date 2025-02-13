@@ -1,45 +1,9 @@
 body{
-    background-color: #EEEEEE;
-    
+    background-color: aqua;
 }
-
-.title{
-    color: red;
-    text-align: center;
-    font-family: Verdana;
-}
-
-p{
-    color: blue;
-    font-family: Verdana;
-}
-
-li{
-    color: red;
-}
-
-em{
-    color: green;
-    font-size: 15px;
-    font-weight: bold;
-    font-weight: italic;
-}
-
-.foo{
-    color: #666666;
-    word-spacing: 10mm;
-}
-
-strong{
-    color: blue;
-}
-
-.margin5{
-    margin: 5%;
-}
-
-.bar{
-    color: #0099CC;
-    font-family: oblique, monospace;
-    font-size: large;
+#Jlists{
+    background-color: red;
+    width: 650px;
+    padding: 15px;
+    align-content: center;
 }
